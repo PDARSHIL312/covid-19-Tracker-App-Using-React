@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## video
+
+https://github.com/PDARSHIL312/covid-19-Tracker-App-Using-React/assets/137078389/5a1d7572-8804-43a9-8625-af2716e97151
+
+
 ## Available Scripts
 
 In the project directory, you can run:
